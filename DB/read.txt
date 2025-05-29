@@ -1,0 +1,8 @@
+************Admin**********
+username:himani
+password:himu@123
+***********user************
+username:ram
+password:ram@1212
+
+database:spms
